@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Biscuitandjam/static/css/main.a978386e.css",
-    "main.js": "/Biscuitandjam/static/js/main.a8fb58d8.js",
+    "main.css": "/Biscuitandjam/static/css/main.cb315268.css",
+    "main.js": "/Biscuitandjam/static/js/main.b0665906.js",
     "index.html": "/Biscuitandjam/index.html",
-    "main.a978386e.css.map": "/Biscuitandjam/static/css/main.a978386e.css.map",
-    "main.a8fb58d8.js.map": "/Biscuitandjam/static/js/main.a8fb58d8.js.map"
+    "main.cb315268.css.map": "/Biscuitandjam/static/css/main.cb315268.css.map",
+    "main.b0665906.js.map": "/Biscuitandjam/static/js/main.b0665906.js.map"
   },
   "entrypoints": [
-    "static/css/main.a978386e.css",
-    "static/js/main.a8fb58d8.js"
+    "static/css/main.cb315268.css",
+    "static/js/main.b0665906.js"
   ]
 }
