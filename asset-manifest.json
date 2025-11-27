@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Biscuitandjam/static/css/main.a978386e.css",
+    "main.js": "/Biscuitandjam/static/js/main.a8fb58d8.js",
+    "index.html": "/Biscuitandjam/index.html",
+    "main.a978386e.css.map": "/Biscuitandjam/static/css/main.a978386e.css.map",
+    "main.a8fb58d8.js.map": "/Biscuitandjam/static/js/main.a8fb58d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a978386e.css",
+    "static/js/main.a8fb58d8.js"
+  ]
+}
